@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../train/images
+test: ../test/images
+
+nc: 3
+names: ["ball", "player", "rim"]
+
+roboflow:
+  workspace: stevens-workspace-0nwki
+  project: stevens-workspace-0nwki
+  version: dataset
+  license: Private
+  url: https://app.roboflow.com/stevens-workspace-0nwki/stevens-workspace-0nwki/dataset

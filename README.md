@@ -1,6 +1,6 @@
 # CourtMaster: Rule Every Matchup
 
-CourtMaster is a 1 v 1 basketball analytics passion project that uses computer vision (YOLOv6) to detect players and extract data from recorded games. 
+A computer-vision based analytics projects that will give live insights from a 1 on 1 match.
 
 ## Features
 

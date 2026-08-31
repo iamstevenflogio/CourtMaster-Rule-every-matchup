@@ -1,6 +1,6 @@
 # CourtMaster: Rule Every Matchup
 
-A computer-vision based analytics projects that will give live insights from a 1 on 1 match.
+A computer-vision based analytics prototype that will give live insights from a 1 on 1 match.
 
 ## Features
 
